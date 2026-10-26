@@ -3,6 +3,6 @@ This is sd-space3ds, a homebrew tool for the 3DS that tells you how much space y
 
 
 # Instructions
-Press A to cycle between MB, GB, KB, and bytes.
+Press A to cycle between MiB, GiB, KiB, and bytes.
 
 Press START to exit back to the homebrew channel.
